@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+}
+
+.container {
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 3pt;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.item1, .item2 {
+
+}
